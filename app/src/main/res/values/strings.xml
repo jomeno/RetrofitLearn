@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RetrofitLearn</string>
+
+    <string name="api_base_url">http://medace.co</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
